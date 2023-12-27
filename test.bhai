@@ -1,0 +1,42 @@
+hi bhai
+
+
+
+
+bhai ye hai a = 5;
+bhai ye hai b = 7;
+
+bol bhai a + b;
+
+
+
+
+agar bhai (b > a) {
+    bol bhai "b is greater";
+} nahi to bhai (a > b) {
+    bol bhai "a is greater";
+}
+
+
+
+
+bhai ye hai i = 1 ;
+
+jab tak bhai (i <= 5) {
+    bol bhai i;
+    i += 1;
+}
+
+
+
+
+bhai ye hai x = sahi;
+bhai ye hai y = galat;
+bhai ye hai z = nalla;
+
+bol bhai x,y,z ;
+
+
+
+
+bye bhai
